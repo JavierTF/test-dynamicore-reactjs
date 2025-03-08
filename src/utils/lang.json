@@ -1,0 +1,80 @@
+{
+    "es": {
+        "form": {
+            "title": "Formulario de Usuario",
+            "labels": {
+                "name": "Nombre:",
+                "email": "Email:"
+            },
+            "placeholders": {
+                "name": "Ingrese su nombre",
+                "email": "Ingrese su email"
+            },
+            "buttons": {
+                "submit": "Enviar"
+            },
+            "validation": {
+                "nameRequired": "El nombre es obligatorio",
+                "nameLettersOnly": "El nombre solo debe contener letras",
+                "emailRequired": "El email es obligatorio",
+                "emailInvalid": "El formato de email no es válido"
+            },
+            "submittedData": {
+                "title": "Datos Ingresados:",
+                "name": "Nombre:",
+                "email": "Email:"
+            }
+        },
+        "list": {
+            "loading": "Cargando...",
+            "noUsers": "No hay usuarios",
+            "header": "Lista de Usuarios",
+            "order": "Ordenar por:",
+            "asc": "Ascendente",
+            "desc": "Descendente"
+        },
+        "common": {
+            "genericError": "Ha habido un error",
+            "idiomSelect": "Seleccione idioma:"
+        }
+    },
+    "en": {
+        "form": {
+            "title": "User Form",
+            "labels": {
+                "name": "Name:",
+                "email": "Email:"
+            },
+            "placeholders": {
+                "name": "Enter your name",
+                "email": "Enter your email"
+            },
+            "buttons": {
+                "submit": "Submit"
+            },
+            "validation": {
+                "nameRequired": "Name is required",
+                "nameLettersOnly": "Name must contain only letters",
+                "emailRequired": "Email is required",
+                "emailInvalid": "Email format is invalid"
+            },
+            "submittedData": {
+                "title": "Submitted Data:",
+                "name": "Name:",
+                "email": "Email:"
+            }
+        },
+        "list": {
+            "loading": "Loading...",
+            "noUsers": "No users",
+            "header": "User List",
+            "order": "Sort by:",
+            "asc": "Ascending",
+            "desc": "Descending"
+        },
+        "common": {
+            "genericError": "An error has occurred",
+            "idiomSelect": "Pick language:"
+        }
+    }
+}
